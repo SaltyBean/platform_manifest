@@ -58,7 +58,7 @@
   <project path="device/htc/msm8960-common" name="Bajee11/device_htc_msm8960-common" remote="gh" revision="jb-mr1" />-->
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/aries-common" name="UnicornButter/device_samsung_aries-common" remote="pub" revision="jb-mr1" />
-  <project path="device/samsung/captivatemtd" name="device_samsung_captivatemtd" remote="cm" revision="cm-10.1" />
+  <project path="device/samsung/captivatemtd" name="android_device_samsung_captivatemtd" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/d2-common" name="device_samsung_d2-common" remote="rootbox" revision="jb-mr1" />
   <project path="device/samsung/d2att" name="device_samsung_d2att" remote="rootbox" revision="jb-mr1" />
   <project path="device/samsung/d2tmo" name="device_samsung_d2tmo" remote="rootbox" revision="jb-mr1" />
