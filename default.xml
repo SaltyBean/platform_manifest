@@ -21,6 +21,9 @@
 
   <remote  name="gh"
 	   fetch="https://github.com/" />
+	   
+  <remote  name="pub"
+           fetch="https://github.com/" />
 
   <default revision="refs/tags/android-4.2.2_r1"
            remote="aosp"
