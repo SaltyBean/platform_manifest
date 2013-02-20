@@ -226,7 +226,7 @@
   <project path="external/tinyxml" name="platform/external/tinyxml" />
   <project path="external/tinyxml2" name="platform/external/tinyxml2" />
   <project path="external/tremolo" name="platform/external/tremolo" />
-  <project path="external/v8" name="UnicornButter/platform/external/v8" remote="pub" revision="jb-mr1" />
+  <project path="external/v8" name="UnicornButter/external/v8" remote="pub" revision="jb-mr1" />
   <project path="external/valgrind" name="platform/external/valgrind" />
   <project path="external/webkit" name="UnicornButter/external_webkit" remote="pub" revision="jb-mr1" />
   <project path="external/webp" name="platform/external/webp" />
